@@ -1,0 +1,1 @@
+# idx10_multiple_linier_regresion
